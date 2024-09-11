@@ -84,7 +84,7 @@ The program must produce a modified BMP file for each operation, with the result
  .\TestImg.exe test_org.bmp --negativo --monocromo --achicar --gris --aumentar-contraste --recortar --rotar-derecha --rotar-izquierda --tonalidad-azul --tonalidad-roja --tonalidad-verde 
 
  ## Additional Material
--   [Practical Work Requirements]()
+-   [Practical Work Requirements](./.github/requirements.md)
 
 <h2>
     License

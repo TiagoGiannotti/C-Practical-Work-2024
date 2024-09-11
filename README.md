@@ -1,7 +1,7 @@
-# C-Practical-Work-2023
+
+
 <h1 align="center">
-C Practical Work
-</h1>
+C-Practical-Work-2024 - Uncompressed Image Manipulation</h1>
 <h4 align="center">
 Repository for the practical work of the Programming Topics course - UNLaM (National University of La Matanza).
 </h4>
